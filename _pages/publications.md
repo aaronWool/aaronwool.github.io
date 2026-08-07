@@ -1,16 +1,14 @@
 ---
-layout: archive
-title: "Publications"
+layout: page
 permalink: /publications/
-author_profile: true
+title: publications
+description: Publications in embodied AI, VLA systems, robotics, and 6DoF object pose estimation.
+nav: true
+nav_order: 2
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+{% include bib_search.liquid %}
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<div class="publications">
+{% bibliography %}
+</div>

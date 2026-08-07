@@ -1,0 +1,140 @@
+cv:
+  name: Yangzheng Wu
+  label: Team Lead, Embodied AI Senior Researcher
+  email: aaron1994wu@gmail.com
+  location: Markham, Ontario, Canada
+  image: assets/img/prof_pic.png
+  summary: Embodied AI and computer vision researcher focused on vision-language-action systems, robotics, and 6DoF object pose estimation.
+
+  social_networks:
+    - network: GitHub
+      username: aaronWool
+    - network: LinkedIn
+      username: yangzhengwu
+
+  sections:
+    Experience:
+      - company: Huawei Canada Research Institute
+        position: Team Lead, Embodied AI Senior Researcher
+        location: Canada
+        start_date: 2025-01
+        end_date: present
+        highlights:
+          - Led embodied AI research using diffusion-based vision-language-action models for intelligent agent behavior in real-world and simulated environments.
+          - Technical Lead for The NorthStar Team, ranked 4th worldwide in the NeurIPS 2025 BEHAVIOR-1K Challenge.
+          - Proposed and validated VLA-based embodied AI architectures for improved task completion across diverse environments.
+
+      - company: ARxAI Inc.
+        position: Augmented Reality Software Developer
+        location: Canada
+        start_date: 2018-10
+        end_date: 2020-01
+        highlights:
+          - Built ball and cue detection algorithms with OpenCV.
+          - Developed an FFmpeg-based mini video player rendered with OpenGL.
+          - Worked with Blackfly and Daheng camera APIs, plus pool-table camera and projector homographies.
+
+      - company: Jabil Circuit (Wuxi, China) Co., Ltd.
+        position: Robotics Intern
+        location: Wuxi, China
+        start_date: 2017-05
+        end_date: 2017-08
+        highlights:
+          - Developed a nozzle QR code scanner algorithm for NXT machines.
+          - Debugged C# code for NXT nozzle management and cleaning equipment.
+
+      - company: L'Oreal China Research and Innovation Center
+        position: Statistics Analysis Intern
+        location: China
+        start_date: 2016-06
+        end_date: 2016-08
+        highlights:
+          - Conducted statistical analysis using regression models, neural networks, and decision trees in SPSS and R.
+
+    Education:
+      - institution: Queen's University
+        location: Kingston, Ontario, Canada
+        area: Electrical and Computer Engineering
+        studyType: PhD
+        start_date: 2022-01
+        end_date: 2025-01
+        score: 3.98/4.3
+        highlights:
+          - "Supervisor: Dr. Michael Greenspan"
+          - "Thesis: Advancing 6DoF Object Pose Estimation: Keypoint Voting, Optimal Keypoint Sampling, and Bridging the Simulation-to-Real Gap"
+
+      - institution: Queen's University
+        location: Kingston, Ontario, Canada
+        area: Electrical and Computer Engineering
+        studyType: MASc
+        start_date: 2021-05
+        end_date: 2022-04
+        score: 3.98/4.3
+        highlights:
+          - "Supervisor: Dr. Michael Greenspan"
+          - "Thesis: Radial Voting Based Keypoint and 6DoF Pose Estimation"
+
+      - institution: Queen's University
+        location: Kingston, Ontario, Canada
+        area: Electrical and Computer Engineering
+        studyType: MEng
+        start_date: 2017-09
+        end_date: 2018-10
+        score: 3.7/4.3
+        highlights:
+          - "Advisor: Dr. Michael Greenspan"
+          - "Report: Detection, Identification, and Tracking of Ball and Cue Stick in ARPool"
+
+      - institution: Imperial College London
+        location: London, United Kingdom
+        area: Robotics Summer School
+        studyType: Summer School
+        start_date: 2015-07
+        end_date: 2015-08
+        highlights:
+          - Built a tennis ball collection robot with Lego NXT and vision algorithms.
+
+      - institution: Nanjing Forestry University
+        location: Nanjing, China
+        area: Electrical Engineering and Automation
+        studyType: BS
+        start_date: 2014-09
+        end_date: 2017-06
+        highlights:
+          - "Undergraduate research advisor: Dr. Chunhua Hu"
+          - "Thesis: Identification of water shortage in poplar saplings based on SVM"
+
+    Awards:
+      - title: Technical Lead, The NorthStar Team - 4th Place Worldwide
+        date: 2025
+        awarder: NeurIPS BEHAVIOR-1K Challenge
+        summary: Stanford University and NVIDIA challenge for long-horizon embodied AI.
+      - title: Main Contributor, Best-Performing Method on ITODD
+        date: 2022
+        awarder: BOP 2022 6DoF Rigid Object Pose Estimation Challenge
+        summary: Meta and Niantic challenge benchmark.
+      - title: Fully Funded MASc and PhD Scholarships
+        date: 2021
+        awarder: NSERC Canada
+
+    Patents:
+      - title: Systems and methods for pose estimation via radial voting based keypoint localization
+        authors:
+          - Michael Greenspan
+          - Mohsen Zand
+          - Seyed Ali Etemad
+          - Yangzheng Wu
+        summary: US12417552B2.
+      - title: Method and System For Controlling Robot
+        authors:
+          - Yangzheng Wu
+          - others
+        summary: U.S. Patent Application No. US18/131,060.
+
+    Skills:
+      - name: Embodied AI and Robotics
+        keywords: Vision-Language-Action Models, Isaac Sim, ManiSkill, CuRobo
+      - name: Machine Learning and Vision
+        keywords: Python, PyTorch, scikit-learn, OpenCV, Open3D, CUDA C
+      - name: Systems
+        keywords: Docker, Git, C++, OpenGL, FFmpeg
