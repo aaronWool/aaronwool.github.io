@@ -344,7 +344,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Wu]
-  first_name: [Yangzheng]
+  first_name: [Yangzheng, Aaron]
 
   style: apa
   locale: en
