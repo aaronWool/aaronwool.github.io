@@ -21,7 +21,7 @@ cv:
         end_date: present
         highlights:
           - Led embodied AI research using diffusion-based vision-language-action models for intelligent agent behavior in real-world and simulated environments.
-          - Ranked No. 1 worldwide in the BEHAVIOR-1K 2026 Challenge and 4th worldwide in the NeurIPS 2025 BEHAVIOR-1K Challenge (Technical Lead, The NorthStar Team, 2025).
+          - Ranked No. 1 worldwide in the CoRL BEHAVIOR-1K 2026 Challenge and 4th worldwide in the NeurIPS 2025 BEHAVIOR-1K Challenge.
           - Proposed and validated VLA-based embodied AI architectures for improved task completion across diverse environments.
 
       - company: ARxAI Inc.
@@ -108,7 +108,7 @@ cv:
       - title: No. 1 Worldwide (2026) and 4th Worldwide (2025)
         date: "2025–2026"
         awarder: BEHAVIOR-1K Challenge
-        summary: Technical Lead for The NorthStar Team in the NeurIPS 2025 BEHAVIOR-1K Challenge.
+        summary: Ranked No. 1 worldwide in the CoRL BEHAVIOR-1K 2026 Challenge and 4th worldwide in the NeurIPS 2025 BEHAVIOR-1K Challenge.
       - title: Main Contributor, Best-Performing Method on ITODD
         date: 2022
         awarder: BOP 2022 6DoF Rigid Object Pose Estimation Challenge

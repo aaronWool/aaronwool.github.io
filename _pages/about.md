@@ -56,4 +56,4 @@ I am an embodied AI and computer vision researcher working on vision-language-ac
 
 My recent work focuses on long-horizon robot behavior, robustness of vision-language-action systems, and simulation-to-real learning. During my PhD at Queen's University, supervised by Dr. Michael Greenspan, I developed keypoint voting methods for RGB-D, point-cloud, and self-supervised 6DoF object pose estimation.
 
-Highlights include ranking No. 1 worldwide in the BEHAVIOR-1K 2026 Challenge and 4th worldwide in the NeurIPS 2025 BEHAVIOR-1K Challenge (Technical Lead, The NorthStar Team, 2025), and main contribution to the best-performing method on ITODD in the BOP 2022 6DoF Rigid Object Pose Estimation Challenge.
+Highlights include ranking No. 1 worldwide in the CoRL BEHAVIOR-1K 2026 Challenge and 4th worldwide in the NeurIPS 2025 BEHAVIOR-1K Challenge, and main contribution to the best-performing method on ITODD in the BOP 2022 6DoF Rigid Object Pose Estimation Challenge.
