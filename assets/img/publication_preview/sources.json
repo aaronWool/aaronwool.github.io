@@ -1,0 +1,67 @@
+[
+  {
+    "key": "liu2026spatialgrafting",
+    "source": "https://arxiv.org/html/2609.35249v1/figures/pipeline_V25.png",
+    "page": "https://arxiv.org/html/2609.35249",
+    "figure": "S1.F1"
+  },
+  {
+    "key": "huang2026stageguard",
+    "source": "https://arxiv.org/html/2609.20791v1/fig1.png",
+    "page": "https://arxiv.org/html/2609.20791",
+    "figure": "S1.F1"
+  },
+  {
+    "key": "li2026robopro",
+    "source": "https://robopro-bench.github.io/RoboPRO/teaser.png?v=6",
+    "page": "https://robopro-bench.github.io/RoboPRO/",
+    "figure": "teaser"
+  },
+  {
+    "key": "rasouli2026distractedrobot",
+    "source": "https://arxiv.org/html/2511.22780v1/first_image.png",
+    "page": "https://arxiv.org/html/2511.22780",
+    "figure": "S1.F1"
+  },
+  {
+    "key": "rasouli2026openworldvlas",
+    "source": "https://arxiv.org/html/2604.21192v1/first_image_v2.png",
+    "page": "https://arxiv.org/html/2604.21192",
+    "figure": "S1.F1"
+  },
+  {
+    "key": "zhang2026worldactionmodels",
+    "source": "https://arxiv.org/html/2603.22078v5/robotwin2_plus_perturbation_strip.png",
+    "page": "https://arxiv.org/html/2603.22078",
+    "figure": "S3.F1"
+  },
+  {
+    "key": "zhang2025mem2ego",
+    "source": "https://arxiv.org/html/2502.14254v3/Workflow_v6.png",
+    "page": "https://arxiv.org/html/2502.14254",
+    "figure": "S3.F1"
+  },
+  {
+    "key": "wu2024rkhs",
+    "source": "https://arxiv.org/html/2311.09500v3/figs/teaser_h_v10.png",
+    "page": "https://arxiv.org/html/2311.09500",
+    "figure": "S1.F1"
+  },
+  {
+    "key": "wu2024keygnet",
+    "source": "https://arxiv.org/html/2308.07827v2/figs/teaser_v3.png",
+    "page": "https://arxiv.org/html/2308.07827",
+    "figure": "S0.F1"
+  },
+  {
+    "key": "wu2022rcvpose",
+    "source": "https://arxiv.org/html/2104.02527v4/radial-voting-14.png",
+    "page": "https://arxiv.org/html/2104.02527",
+    "figure": "S1.F1"
+  },
+  {
+    "key": "wu2022rcvpose3d",
+    "source": "https://arxiv.org/pdf/2210.08123",
+    "figure": "Figure 1, page 1"
+  }
+]
