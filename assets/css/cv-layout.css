@@ -1,0 +1,46 @@
+/* Keep CV dates and locations within their own column. */
+.cv .list-group-item > .row:has(> .date-column) {
+  display: grid;
+  grid-template-columns: 8rem minmax(0, 1fr);
+  gap: 1rem;
+  margin-inline: 0;
+  align-items: start;
+}
+
+.cv .list-group-item > .row:has(> .date-column) > div {
+  width: auto;
+  max-width: none;
+  min-width: 0;
+  padding-inline: 0;
+}
+
+.cv .date-column {
+  transform: none;
+  text-align: left;
+}
+
+.cv .date-column .table-cv {
+  width: 100%;
+  table-layout: fixed;
+}
+
+.cv .date-column .location {
+  white-space: normal;
+  overflow-wrap: anywhere;
+}
+
+.cv .date-column .badge {
+  max-width: 100%;
+  white-space: normal;
+}
+
+@media (max-width: 767px) {
+  .cv .list-group-item > .row:has(> .date-column) {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 0.5rem;
+  }
+
+  .cv .date-column .location {
+    margin-bottom: 0;
+  }
+}

@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: default
 permalink: /cv/
 title: CV
 nav: true
@@ -10,3 +10,7 @@ description: Current CV and professional background.
 toc:
   sidebar: left
 ---
+
+<link rel="stylesheet" href="{{ "/assets/css/cv-layout.css" | relative_url }}">
+
+{% al_folio_cv_render %}
